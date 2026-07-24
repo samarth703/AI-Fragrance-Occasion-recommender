@@ -1,0 +1,321 @@
+perfume_id,brand,category,longevity,sillage,best_time_of_day,best_season,price_tier,recommended_event
+1,Lattafa,Aromatic Fougere,Light,Enormous,Day,Spring,Budget,Office
+2,Hermes,Oriental Vanilla,Very Strong,Intimate,Both,Summer,Budget,Party/Club
+3,Versace,Oud,Medium,Enormous,Day,Spring,Budget,Wedding
+4,Prada,Floral Fruity,Medium,Intimate,Day,Summer,Budget,Date Night
+5,YSL,Floral Fruity,Strong,Strong,Day,All Season,Luxury,Date Night
+6,YSL,Oriental Vanilla,Very Strong,Strong,Day,Fall,Mid-Range,Party/Club
+7,Guerlain,Oud,Light,Strong,Night,All Season,Luxury,Party/Club
+8,Tom Ford,Oud,Strong,Strong,Night,Fall,Budget,Wedding
+9,YSL,Woody Spicy,Strong,Intimate,Both,Fall,Mid-Range,Office
+10,Mancera,Citrus Aromatic,Light,Enormous,Day,Summer,Luxury,Office
+11,Byredo,Fresh Scent,Medium,Enormous,Night,All Season,Mid-Range,Casual Daywear
+12,Lattafa,Gourmand,Light,Strong,Night,Spring,Mid-Range,Date Night
+13,Tom Ford,Oriental Vanilla,Strong,Strong,Day,Fall,Mid-Range,Party/Club
+14,Tom Ford,Oud,Strong,Strong,Day,Spring,Luxury,Wedding
+15,Rasasi,Gourmand,Medium,Intimate,Day,All Season,Luxury,Date Night
+16,Dior,Oriental Vanilla,Strong,Strong,Night,Winter,Budget,Beach/Vacation
+17,Hermes,Aromatic Fougere,Medium,Moderate,Both,All Season,Budget,Office
+18,Versace,Fresh Scent,Medium,Enormous,Night,Summer,Budget,Casual Daywear
+19,Rasasi,Floral Fruity,Very Strong,Moderate,Both,Winter,Mid-Range,Date Night
+20,Ajmal,Gourmand,Strong,Strong,Night,Winter,Budget,Date Night
+21,YSL,Leather,Very Strong,Strong,Day,Spring,Mid-Range,Night Out
+22,Mancera,Fresh Scent,Strong,Intimate,Night,Fall,Luxury,Casual Daywear
+23,Lattafa,Gourmand,Strong,Strong,Night,Summer,Luxury,Date Night
+24,Hermes,Amber Floral,Strong,Strong,Both,Fall,Mid-Range,Wedding
+25,Mancera,Aromatic Fougere,Strong,Strong,Both,Winter,Mid-Range,Office
+26,YSL,Gourmand,Strong,Strong,Both,Summer,Luxury,Date Night
+27,Byredo,Aromatic Fougere,Very Strong,Strong,Both,Spring,Luxury,Office
+28,Versace,Floral Fruity,Very Strong,Strong,Both,All Season,Luxury,Date Night
+29,Chanel,Oriental Vanilla,Medium,Enormous,Both,Summer,Budget,Party/Club
+30,YSL,Leather,Light,Enormous,Day,Summer,Budget,Night Out
+31,Creed,Aromatic Fougere,Medium,Enormous,Day,All Season,Budget,Office
+32,Mancera,Citrus Aromatic,Light,Moderate,Day,Fall,Budget,Office
+33,Lattafa,Citrus Aromatic,Light,Strong,Day,All Season,Luxury,Office
+34,Rasasi,Amber Floral,Strong,Strong,Night,Summer,Mid-Range,Wedding
+35,Mancera,Gourmand,Medium,Moderate,Both,Winter,Luxury,Date Night
+36,Byredo,Floral Fruity,Light,Strong,Both,Spring,Mid-Range,Date Night
+37,Guerlain,Aromatic Fougere,Very Strong,Enormous,Night,Summer,Mid-Range,Office
+38,Montblanc,Citrus Aromatic,Medium,Strong,Both,Fall,Mid-Range,Office
+39,Chanel,Aromatic Fougere,Strong,Enormous,Night,Summer,Mid-Range,Night Out
+40,Armaf,Oud,Light,Moderate,Night,Spring,Mid-Range,Wedding
+41,Lattafa,Oriental Vanilla,Very Strong,Intimate,Day,Winter,Mid-Range,Party/Club
+42,Rasasi,Oud,Very Strong,Enormous,Both,All Season,Luxury,Wedding
+43,Chanel,Floral Fruity,Strong,Strong,Both,Fall,Luxury,Date Night
+44,Chanel,Gourmand,Strong,Strong,Both,All Season,Budget,Casual Daywear
+45,Prada,Leather,Light,Moderate,Day,Winter,Mid-Range,Night Out
+46,Hermes,Citrus Aromatic,Very Strong,Enormous,Both,Summer,Mid-Range,Office
+47,Tom Ford,Oud,Light,Enormous,Both,Fall,Luxury,Wedding
+48,Rasasi,Floral Fruity,Medium,Enormous,Both,All Season,Mid-Range,Date Night
+49,Guerlain,Citrus Aromatic,Light,Intimate,Both,Summer,Mid-Range,Office
+50,Tom Ford,Leather,Light,Strong,Both,Winter,Budget,Night Out
+51,Hermes,Woody Spicy,Light,Intimate,Day,All Season,Luxury,Formal Event
+52,Creed,Floral Fruity,Strong,Enormous,Day,Summer,Luxury,Date Night
+53,YSL,Fresh Scent,Medium,Intimate,Both,Spring,Luxury,Casual Daywear
+54,Tom Ford,Oud,Light,Intimate,Both,Winter,Luxury,Wedding
+55,Versace,Fresh Scent,Strong,Enormous,Night,Fall,Luxury,Casual Daywear
+56,Dior,Floral Fruity,Strong,Moderate,Both,All Season,Mid-Range,Date Night
+57,Armaf,Oud,Light,Moderate,Night,Fall,Luxury,Wedding
+58,Armaf,Aromatic Fougere,Very Strong,Enormous,Day,Summer,Luxury,Party/Club
+59,Tom Ford,Aquatic,Light,Intimate,Day,All Season,Luxury,Beach/Vacation
+60,Montblanc,Gourmand,Very Strong,Strong,Day,All Season,Budget,Date Night
+61,Montblanc,Woody Spicy,Medium,Enormous,Both,Summer,Luxury,Formal Event
+62,Hermes,Oriental Vanilla,Medium,Enormous,Night,Summer,Mid-Range,Party/Club
+63,Mancera,Citrus Aromatic,Very Strong,Moderate,Both,Fall,Luxury,Office
+64,Versace,Aromatic Fougere,Light,Moderate,Both,Summer,Mid-Range,Beach/Vacation
+65,Dior,Floral Fruity,Medium,Moderate,Day,Winter,Mid-Range,Date Night
+66,Mancera,Woody Spicy,Very Strong,Enormous,Night,All Season,Mid-Range,Formal Event
+67,Prada,Fresh Scent,Medium,Moderate,Both,Summer,Budget,Casual Daywear
+68,Montblanc,Gourmand,Medium,Strong,Day,Fall,Budget,Date Night
+69,Armaf,Woody Spicy,Very Strong,Intimate,Night,Fall,Mid-Range,Formal Event
+70,Chanel,Leather,Very Strong,Enormous,Day,Spring,Luxury,Night Out
+71,Prada,Leather,Medium,Moderate,Day,Summer,Luxury,Date Night
+72,Tom Ford,Aquatic,Very Strong,Strong,Both,Fall,Budget,Beach/Vacation
+73,Rasasi,Fresh Scent,Very Strong,Moderate,Day,Summer,Luxury,Casual Daywear
+74,Dior,Leather,Very Strong,Strong,Day,Winter,Budget,Night Out
+75,Versace,Floral Fruity,Light,Intimate,Both,All Season,Luxury,Date Night
+76,Creed,Fresh Scent,Medium,Enormous,Day,Winter,Budget,Casual Daywear
+77,Dior,Gourmand,Very Strong,Intimate,Day,Fall,Mid-Range,Date Night
+78,Dior,Woody Spicy,Medium,Moderate,Both,All Season,Luxury,Formal Event
+79,Armaf,Fresh Scent,Strong,Intimate,Day,All Season,Budget,Casual Daywear
+80,Byredo,Aquatic,Light,Enormous,Both,Fall,Mid-Range,Beach/Vacation
+81,Montblanc,Amber Floral,Medium,Intimate,Night,Winter,Budget,Wedding
+82,Guerlain,Oud,Very Strong,Intimate,Night,Winter,Mid-Range,Wedding
+83,Tom Ford,Gourmand,Medium,Intimate,Night,All Season,Luxury,Date Night
+84,Dior,Gourmand,Medium,Intimate,Both,Summer,Mid-Range,Date Night
+85,Creed,Fresh Scent,Very Strong,Strong,Night,All Season,Budget,Casual Daywear
+86,Guerlain,Aquatic,Light,Enormous,Day,Spring,Luxury,Office
+87,Lattafa,Fresh Scent,Very Strong,Moderate,Night,Spring,Mid-Range,Casual Daywear
+88,Lattafa,Gourmand,Strong,Strong,Day,Spring,Luxury,Date Night
+89,Chanel,Woody Spicy,Light,Intimate,Day,Fall,Mid-Range,Formal Event
+90,Chanel,Oriental Vanilla,Very Strong,Moderate,Night,Summer,Mid-Range,Party/Club
+91,YSL,Aquatic,Medium,Intimate,Night,All Season,Luxury,Beach/Vacation
+92,Guerlain,Gourmand,Very Strong,Enormous,Day,Fall,Mid-Range,Date Night
+93,Armaf,Gourmand,Very Strong,Moderate,Night,Spring,Luxury,Date Night
+94,Hermes,Gourmand,Light,Intimate,Day,Winter,Luxury,Beach/Vacation
+95,Dior,Aquatic,Medium,Enormous,Both,Fall,Mid-Range,Beach/Vacation
+96,Byredo,Oud,Medium,Strong,Both,All Season,Mid-Range,Wedding
+97,Armaf,Aromatic Fougere,Strong,Moderate,Both,Spring,Luxury,Office
+98,Mancera,Floral Fruity,Medium,Moderate,Night,Winter,Budget,Date Night
+99,Montblanc,Fresh Scent,Strong,Moderate,Night,Winter,Luxury,Casual Daywear
+100,Tom Ford,Oriental Vanilla,Very Strong,Intimate,Day,All Season,Luxury,Party/Club
+101,YSL,Citrus Aromatic,Light,Strong,Both,Spring,Luxury,Office
+102,Montblanc,Amber Floral,Very Strong,Enormous,Night,All Season,Luxury,Wedding
+103,Dior,Amber Floral,Medium,Enormous,Night,All Season,Budget,Wedding
+104,Byredo,Oud,Strong,Intimate,Day,Spring,Mid-Range,Wedding
+105,Versace,Oud,Light,Strong,Both,Summer,Budget,Wedding
+106,Rasasi,Aromatic Fougere,Medium,Enormous,Both,Spring,Budget,Office
+107,Versace,Citrus Aromatic,Light,Enormous,Night,Summer,Luxury,Office
+108,Byredo,Leather,Strong,Enormous,Night,Spring,Luxury,Night Out
+109,Mancera,Oriental Vanilla,Light,Moderate,Night,Fall,Mid-Range,Party/Club
+110,Tom Ford,Floral Fruity,Light,Enormous,Day,Summer,Luxury,Office
+111,Versace,Oriental Vanilla,Very Strong,Enormous,Both,All Season,Budget,Party/Club
+112,Lattafa,Fresh Scent,Strong,Moderate,Night,Spring,Budget,Casual Daywear
+113,YSL,Citrus Aromatic,Medium,Strong,Both,Spring,Luxury,Office
+114,Ajmal,Fresh Scent,Light,Enormous,Day,All Season,Budget,Casual Daywear
+115,Prada,Leather,Very Strong,Moderate,Both,All Season,Mid-Range,Night Out
+116,Chanel,Oriental Vanilla,Medium,Intimate,Day,Fall,Budget,Party/Club
+117,Creed,Aquatic,Very Strong,Strong,Day,All Season,Luxury,Beach/Vacation
+118,Creed,Aromatic Fougere,Light,Intimate,Day,Summer,Mid-Range,Office
+119,Prada,Leather,Light,Moderate,Night,All Season,Mid-Range,Night Out
+120,Creed,Aquatic,Strong,Moderate,Both,Spring,Mid-Range,Beach/Vacation
+121,Ajmal,Fresh Scent,Very Strong,Strong,Day,Spring,Mid-Range,Casual Daywear
+122,Byredo,Aromatic Fougere,Very Strong,Moderate,Night,Winter,Luxury,Office
+123,Tom Ford,Aquatic,Light,Strong,Night,Fall,Budget,Beach/Vacation
+124,Dior,Oriental Vanilla,Very Strong,Moderate,Night,Spring,Budget,Party/Club
+125,Creed,Amber Floral,Very Strong,Enormous,Day,All Season,Mid-Range,Wedding
+126,Armaf,Fresh Scent,Very Strong,Strong,Day,Spring,Budget,Casual Daywear
+127,Guerlain,Aromatic Fougere,Light,Intimate,Night,All Season,Mid-Range,Office
+128,Tom Ford,Woody Spicy,Medium,Moderate,Night,Spring,Mid-Range,Formal Event
+129,Lattafa,Aquatic,Very Strong,Intimate,Day,Summer,Mid-Range,Beach/Vacation
+130,Versace,Aquatic,Light,Moderate,Day,Winter,Luxury,Beach/Vacation
+131,Versace,Citrus Aromatic,Light,Moderate,Night,Summer,Mid-Range,Office
+132,Versace,Fresh Scent,Strong,Moderate,Night,Winter,Budget,Casual Daywear
+133,Hermes,Aromatic Fougere,Strong,Intimate,Both,Spring,Budget,Office
+134,Tom Ford,Fresh Scent,Very Strong,Intimate,Night,Summer,Budget,Casual Daywear
+135,Hermes,Aromatic Fougere,Very Strong,Moderate,Night,Summer,Budget,Office
+136,Chanel,Woody Spicy,Medium,Enormous,Day,Fall,Budget,Formal Event
+137,Mancera,Aromatic Fougere,Medium,Moderate,Night,All Season,Luxury,Office
+138,Rasasi,Fresh Scent,Light,Enormous,Night,Fall,Mid-Range,Casual Daywear
+139,Prada,Oriental Vanilla,Medium,Strong,Day,All Season,Budget,Party/Club
+140,Guerlain,Oriental Vanilla,Very Strong,Intimate,Day,Spring,Budget,Party/Club
+141,Armaf,Oud,Light,Moderate,Day,Winter,Mid-Range,Wedding
+142,Rasasi,Gourmand,Very Strong,Intimate,Both,Spring,Mid-Range,Date Night
+143,Lattafa,Aquatic,Very Strong,Enormous,Night,Summer,Luxury,Beach/Vacation
+144,Tom Ford,Leather,Very Strong,Intimate,Both,Summer,Luxury,Night Out
+145,Creed,Amber Floral,Strong,Strong,Night,Summer,Mid-Range,Wedding
+146,Hermes,Woody Spicy,Medium,Enormous,Day,Spring,Luxury,Formal Event
+147,Ajmal,Floral Fruity,Strong,Strong,Night,Fall,Mid-Range,Date Night
+148,Creed,Oud,Strong,Intimate,Both,Fall,Mid-Range,Wedding
+149,Armaf,Oud,Very Strong,Moderate,Both,Summer,Luxury,Party/Club
+150,Creed,Woody Spicy,Very Strong,Intimate,Both,All Season,Mid-Range,Formal Event
+151,Dior,Woody Spicy,Very Strong,Intimate,Night,All Season,Luxury,Formal Event
+152,Armaf,Amber Floral,Light,Intimate,Both,All Season,Budget,Night Out
+153,Rasasi,Leather,Light,Strong,Day,Winter,Mid-Range,Night Out
+154,Rasasi,Oud,Light,Strong,Both,Winter,Mid-Range,Wedding
+155,Byredo,Oud,Strong,Moderate,Night,Spring,Budget,Wedding
+156,Tom Ford,Leather,Very Strong,Enormous,Both,All Season,Luxury,Night Out
+157,Byredo,Floral Fruity,Very Strong,Moderate,Both,All Season,Mid-Range,Date Night
+158,Mancera,Woody Spicy,Medium,Enormous,Night,All Season,Mid-Range,Formal Event
+159,Byredo,Amber Floral,Medium,Moderate,Night,All Season,Mid-Range,Wedding
+160,Rasasi,Aquatic,Light,Moderate,Night,Winter,Mid-Range,Beach/Vacation
+161,Lattafa,Gourmand,Light,Intimate,Both,Spring,Mid-Range,Date Night
+162,Rasasi,Aquatic,Medium,Intimate,Both,Winter,Budget,Beach/Vacation
+163,Lattafa,Fresh Scent,Very Strong,Strong,Day,Fall,Budget,Casual Daywear
+164,Ajmal,Citrus Aromatic,Very Strong,Intimate,Day,Fall,Budget,Office
+165,Creed,Amber Floral,Very Strong,Intimate,Night,Winter,Budget,Wedding
+166,Chanel,Aquatic,Strong,Intimate,Both,All Season,Mid-Range,Beach/Vacation
+167,Tom Ford,Gourmand,Very Strong,Intimate,Day,Summer,Budget,Date Night
+168,Creed,Fresh Scent,Very Strong,Enormous,Day,Fall,Mid-Range,Casual Daywear
+169,Versace,Woody Spicy,Medium,Moderate,Night,Summer,Budget,Formal Event
+170,Tom Ford,Floral Fruity,Strong,Intimate,Both,Winter,Mid-Range,Date Night
+171,Lattafa,Oud,Medium,Strong,Night,Winter,Mid-Range,Wedding
+172,Creed,Floral Fruity,Medium,Enormous,Both,Spring,Mid-Range,Date Night
+173,Guerlain,Oriental Vanilla,Medium,Intimate,Both,Winter,Mid-Range,Party/Club
+174,YSL,Gourmand,Light,Strong,Both,Fall,Luxury,Date Night
+175,Dior,Amber Floral,Light,Moderate,Day,Fall,Luxury,Wedding
+176,Hermes,Amber Floral,Strong,Strong,Day,Fall,Budget,Wedding
+177,Rasasi,Citrus Aromatic,Strong,Moderate,Night,Summer,Luxury,Night Out
+178,YSL,Oud,Very Strong,Strong,Night,All Season,Luxury,Wedding
+179,Ajmal,Aquatic,Light,Moderate,Both,Winter,Luxury,Night Out
+180,Prada,Aromatic Fougere,Light,Moderate,Both,Spring,Mid-Range,Office
+181,Byredo,Floral Fruity,Medium,Moderate,Both,Winter,Luxury,Date Night
+182,Versace,Leather,Medium,Strong,Day,Summer,Luxury,Night Out
+183,Tom Ford,Amber Floral,Strong,Enormous,Both,Fall,Budget,Wedding
+184,Mancera,Amber Floral,Very Strong,Intimate,Night,All Season,Budget,Wedding
+185,Dior,Gourmand,Light,Moderate,Day,Spring,Budget,Date Night
+186,Prada,Gourmand,Very Strong,Strong,Both,Spring,Budget,Date Night
+187,Prada,Aquatic,Medium,Intimate,Both,Winter,Luxury,Beach/Vacation
+188,Tom Ford,Aromatic Fougere,Medium,Intimate,Both,Fall,Budget,Office
+189,Montblanc,Woody Spicy,Light,Enormous,Day,Fall,Budget,Formal Event
+190,Montblanc,Citrus Aromatic,Medium,Intimate,Night,Summer,Budget,Office
+191,Prada,Floral Fruity,Very Strong,Intimate,Night,Winter,Luxury,Date Night
+192,Lattafa,Fresh Scent,Medium,Enormous,Night,All Season,Luxury,Casual Daywear
+193,Byredo,Oriental Vanilla,Strong,Strong,Both,Spring,Budget,Party/Club
+194,YSL,Aromatic Fougere,Light,Enormous,Night,Summer,Luxury,Office
+195,Chanel,Amber Floral,Medium,Enormous,Day,Spring,Luxury,Wedding
+196,Ajmal,Fresh Scent,Very Strong,Moderate,Night,Spring,Budget,Casual Daywear
+197,Mancera,Gourmand,Strong,Enormous,Night,All Season,Luxury,Date Night
+198,Montblanc,Citrus Aromatic,Very Strong,Intimate,Day,Winter,Mid-Range,Office
+199,Tom Ford,Amber Floral,Very Strong,Moderate,Day,All Season,Mid-Range,Wedding
+200,Ajmal,Citrus Aromatic,Medium,Strong,Night,Spring,Mid-Range,Office
+201,Creed,Amber Floral,Light,Intimate,Day,Winter,Luxury,Wedding
+202,Byredo,Gourmand,Strong,Moderate,Night,Fall,Luxury,Date Night
+203,Tom Ford,Leather,Medium,Strong,Day,All Season,Mid-Range,Night Out
+204,Montblanc,Oud,Very Strong,Intimate,Day,Fall,Luxury,Wedding
+205,Tom Ford,Aromatic Fougere,Medium,Strong,Both,Spring,Mid-Range,Office
+206,Hermes,Aromatic Fougere,Light,Enormous,Both,Spring,Luxury,Office
+207,Rasasi,Oud,Strong,Enormous,Both,All Season,Mid-Range,Wedding
+208,Tom Ford,Amber Floral,Very Strong,Enormous,Both,Summer,Luxury,Wedding
+209,Versace,Fresh Scent,Medium,Intimate,Night,Fall,Budget,Casual Daywear
+210,Mancera,Citrus Aromatic,Light,Moderate,Day,Winter,Budget,Office
+211,Dior,Aquatic,Light,Intimate,Day,Spring,Mid-Range,Beach/Vacation
+212,Rasasi,Citrus Aromatic,Medium,Intimate,Night,Winter,Mid-Range,Office
+213,Ajmal,Amber Floral,Very Strong,Enormous,Both,Winter,Budget,Wedding
+214,Hermes,Aromatic Fougere,Light,Intimate,Night,Fall,Mid-Range,Office
+215,Ajmal,Leather,Light,Enormous,Night,Winter,Mid-Range,Night Out
+216,Prada,Aromatic Fougere,Strong,Moderate,Day,Winter,Budget,Office
+217,Montblanc,Aromatic Fougere,Strong,Moderate,Both,Summer,Mid-Range,Office
+218,Prada,Fresh Scent,Strong,Enormous,Day,Summer,Budget,Casual Daywear
+219,Armaf,Gourmand,Light,Intimate,Both,Fall,Budget,Date Night
+220,Mancera,Floral Fruity,Light,Intimate,Day,Winter,Budget,Date Night
+221,Byredo,Woody Spicy,Medium,Strong,Night,Summer,Mid-Range,Formal Event
+222,Dior,Fresh Scent,Medium,Intimate,Both,Fall,Budget,Casual Daywear
+223,Tom Ford,Leather,Light,Strong,Night,Fall,Mid-Range,Night Out
+224,Lattafa,Oud,Light,Enormous,Day,Summer,Luxury,Wedding
+225,Chanel,Oud,Very Strong,Moderate,Day,All Season,Budget,Wedding
+226,Creed,Oud,Very Strong,Intimate,Both,Fall,Budget,Wedding
+227,Creed,Fresh Scent,Medium,Strong,Night,Summer,Luxury,Casual Daywear
+228,Chanel,Aquatic,Strong,Enormous,Night,Fall,Mid-Range,Beach/Vacation
+229,Rasasi,Gourmand,Medium,Intimate,Both,All Season,Budget,Date Night
+230,Chanel,Aquatic,Strong,Intimate,Day,Summer,Budget,Beach/Vacation
+231,Byredo,Oud,Medium,Moderate,Day,Spring,Luxury,Wedding
+232,Hermes,Oriental Vanilla,Very Strong,Strong,Both,Fall,Budget,Party/Club
+233,Prada,Amber Floral,Light,Strong,Both,Winter,Luxury,Wedding
+234,Chanel,Oud,Light,Moderate,Both,Summer,Luxury,Wedding
+235,Montblanc,Oud,Very Strong,Strong,Day,Summer,Mid-Range,Wedding
+236,Byredo,Fresh Scent,Light,Enormous,Day,Fall,Luxury,Casual Daywear
+237,YSL,Oud,Very Strong,Strong,Day,Fall,Mid-Range,Wedding
+238,Armaf,Woody Spicy,Medium,Strong,Night,Winter,Mid-Range,Office
+239,Hermes,Floral Fruity,Very Strong,Enormous,Both,Spring,Mid-Range,Date Night
+240,Dior,Oriental Vanilla,Strong,Strong,Both,Summer,Mid-Range,Party/Club
+241,YSL,Citrus Aromatic,Medium,Intimate,Night,Summer,Mid-Range,Office
+242,YSL,Gourmand,Very Strong,Enormous,Night,All Season,Budget,Date Night
+243,Ajmal,Oriental Vanilla,Medium,Intimate,Day,Winter,Luxury,Party/Club
+244,Chanel,Leather,Medium,Intimate,Night,All Season,Luxury,Night Out
+245,Creed,Woody Spicy,Light,Enormous,Night,Summer,Budget,Formal Event
+246,Ajmal,Citrus Aromatic,Strong,Moderate,Day,Winter,Luxury,Office
+247,Ajmal,Woody Spicy,Strong,Intimate,Night,Spring,Budget,Formal Event
+248,Lattafa,Oud,Strong,Moderate,Both,Summer,Mid-Range,Wedding
+249,Hermes,Gourmand,Medium,Strong,Night,Fall,Budget,Date Night
+250,Chanel,Aromatic Fougere,Light,Moderate,Day,Fall,Mid-Range,Office
+251,Mancera,Oriental Vanilla,Strong,Intimate,Both,All Season,Mid-Range,Party/Club
+252,Lattafa,Woody Spicy,Medium,Intimate,Day,Winter,Mid-Range,Formal Event
+253,Armaf,Aromatic Fougere,Strong,Moderate,Day,Winter,Luxury,Office
+254,Chanel,Fresh Scent,Strong,Enormous,Both,Spring,Budget,Casual Daywear
+255,Prada,Floral Fruity,Medium,Strong,Both,Fall,Mid-Range,Date Night
+256,Versace,Amber Floral,Light,Enormous,Night,Fall,Luxury,Wedding
+257,Hermes,Fresh Scent,Strong,Intimate,Day,Winter,Budget,Casual Daywear
+258,Armaf,Leather,Very Strong,Moderate,Both,Winter,Luxury,Night Out
+259,Byredo,Floral Fruity,Light,Intimate,Day,All Season,Mid-Range,Date Night
+260,Prada,Aromatic Fougere,Medium,Strong,Night,Fall,Budget,Office
+261,Hermes,Gourmand,Strong,Intimate,Night,Spring,Luxury,Date Night
+262,Rasasi,Citrus Aromatic,Light,Enormous,Day,Summer,Budget,Office
+263,Guerlain,Oriental Vanilla,Strong,Moderate,Both,Spring,Luxury,Party/Club
+264,Armaf,Gourmand,Very Strong,Moderate,Night,Summer,Mid-Range,Date Night
+265,Prada,Oud,Light,Enormous,Night,Fall,Luxury,Wedding
+266,Armaf,Fresh Scent,Strong,Strong,Night,All Season,Budget,Casual Daywear
+267,Mancera,Aromatic Fougere,Medium,Moderate,Night,All Season,Mid-Range,Office
+268,Lattafa,Citrus Aromatic,Very Strong,Moderate,Both,Summer,Luxury,Office
+269,Chanel,Aromatic Fougere,Light,Intimate,Day,Winter,Luxury,Office
+270,Hermes,Leather,Light,Enormous,Day,Fall,Budget,Night Out
+271,Dior,Citrus Aromatic,Strong,Moderate,Night,Summer,Mid-Range,Office
+272,Rasasi,Gourmand,Strong,Moderate,Day,Spring,Mid-Range,Date Night
+273,Tom Ford,Leather,Very Strong,Strong,Night,Spring,Mid-Range,Night Out
+274,Ajmal,Amber Floral,Very Strong,Moderate,Night,Summer,Mid-Range,Wedding
+275,Lattafa,Leather,Light,Moderate,Day,Winter,Budget,Night Out
+276,Ajmal,Oud,Light,Intimate,Both,All Season,Mid-Range,Wedding
+277,Creed,Amber Floral,Medium,Moderate,Both,All Season,Luxury,Wedding
+278,Byredo,Aquatic,Very Strong,Moderate,Day,All Season,Mid-Range,Beach/Vacation
+279,Montblanc,Gourmand,Strong,Strong,Night,Fall,Budget,Date Night
+280,Montblanc,Gourmand,Medium,Strong,Day,Spring,Budget,Date Night
+281,Versace,Leather,Light,Strong,Day,Winter,Mid-Range,Party/Club
+282,Ajmal,Leather,Strong,Intimate,Both,All Season,Budget,Night Out
+283,Creed,Gourmand,Medium,Intimate,Night,Fall,Budget,Date Night
+284,Armaf,Woody Spicy,Very Strong,Intimate,Day,Winter,Budget,Formal Event
+285,Prada,Fresh Scent,Strong,Intimate,Day,All Season,Luxury,Casual Daywear
+286,Armaf,Aquatic,Very Strong,Enormous,Night,Spring,Budget,Beach/Vacation
+287,Hermes,Aquatic,Strong,Enormous,Day,Summer,Luxury,Beach/Vacation
+288,Lattafa,Floral Fruity,Light,Enormous,Day,Winter,Budget,Date Night
+289,Prada,Leather,Very Strong,Enormous,Night,Summer,Mid-Range,Night Out
+290,Hermes,Leather,Very Strong,Intimate,Both,Spring,Luxury,Night Out
+291,Chanel,Oriental Vanilla,Very Strong,Moderate,Night,Fall,Luxury,Party/Club
+292,Versace,Fresh Scent,Strong,Strong,Night,Spring,Budget,Casual Daywear
+293,Tom Ford,Fresh Scent,Medium,Intimate,Day,Winter,Mid-Range,Casual Daywear
+294,Mancera,Citrus Aromatic,Medium,Strong,Day,Summer,Budget,Office
+295,Rasasi,Oud,Light,Enormous,Both,Winter,Budget,Wedding
+296,Ajmal,Floral Fruity,Medium,Intimate,Day,Winter,Luxury,Date Night
+297,Chanel,Leather,Strong,Strong,Night,Winter,Mid-Range,Night Out
+298,Tom Ford,Leather,Strong,Moderate,Both,All Season,Budget,Night Out
+299,Tom Ford,Leather,Light,Strong,Day,Spring,Mid-Range,Night Out
+300,Chanel,Amber Floral,Medium,Enormous,Day,Summer,Mid-Range,Wedding
+301,Dior,Fresh Scent,Medium,Enormous,Night,Fall,Budget,Casual Daywear
+302,Prada,Aquatic,Medium,Moderate,Day,Summer,Budget,Beach/Vacation
+303,Montblanc,Leather,Very Strong,Intimate,Both,Fall,Luxury,Night Out
+304,Chanel,Oriental Vanilla,Light,Enormous,Day,Summer,Mid-Range,Party/Club
+305,Lattafa,Floral Fruity,Strong,Intimate,Both,Fall,Mid-Range,Date Night
+306,Mancera,Leather,Strong,Moderate,Night,Summer,Mid-Range,Night Out
+307,Ajmal,Woody Spicy,Medium,Strong,Night,Summer,Budget,Formal Event
+308,Tom Ford,Fresh Scent,Medium,Strong,Both,Fall,Mid-Range,Night Out
+309,Armaf,Leather,Very Strong,Moderate,Night,Summer,Luxury,Night Out
+310,Mancera,Leather,Medium,Enormous,Day,Spring,Mid-Range,Night Out
+311,Armaf,Aromatic Fougere,Light,Intimate,Both,Winter,Luxury,Office
+312,Ajmal,Amber Floral,Light,Strong,Night,Winter,Mid-Range,Wedding
+313,Tom Ford,Aquatic,Strong,Enormous,Day,Winter,Mid-Range,Beach/Vacation
+314,Dior,Fresh Scent,Strong,Strong,Night,Fall,Luxury,Casual Daywear
+315,Byredo,Fresh Scent,Strong,Moderate,Night,Summer,Luxury,Casual Daywear
+316,Tom Ford,Floral Fruity,Strong,Intimate,Day,All Season,Luxury,Date Night
+317,Lattafa,Aquatic,Strong,Enormous,Day,Winter,Mid-Range,Beach/Vacation
+318,Prada,Citrus Aromatic,Medium,Intimate,Day,Summer,Luxury,Office
+319,Armaf,Amber Floral,Medium,Strong,Night,Summer,Mid-Range,Wedding
+320,Montblanc,Aquatic,Medium,Strong,Both,Fall,Budget,Beach/Vacation
