@@ -1,1 +1,1 @@
-"python-3.11" | Out-File -Encoding ascii runtime.txt
+python-3.11
